@@ -1,0 +1,19 @@
+{
+  "name": "simple-metamask-methods",
+  "version": "0.0.1",
+  "description": "Easy MetaMask Ethereum calls and transactions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srokatonie/simple-metamask-methods.git"
+  },
+  "author": "srokatonie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/srokatonie/simple-metamask-methods/issues"
+  },
+  "homepage": "https://github.com/srokatonie/simple-metamask-methods#readme"
+}
